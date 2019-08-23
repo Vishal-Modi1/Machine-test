@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\Task\Task6\Task6\bin\Debug\Task6.exe.config
+C:\Users\Dell\Desktop\Task\Task6\Task6\bin\Debug\Task6.exe
+C:\Users\Dell\Desktop\Task\Task6\Task6\bin\Debug\Task6.pdb
+C:\Users\Dell\Desktop\Task\Task6\Task6\obj\Debug\Task6.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Task\Task6\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Task\Task6\Task6\obj\Debug\Task6.exe
+C:\Users\Dell\Desktop\Task\Task6\Task6\obj\Debug\Task6.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dell\Desktop\Task\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\Dell\Desktop\Task\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\Dell\Desktop\Task\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\Dell\Desktop\Task\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Task\Task2\Task2\obj\Debug\Task2.exe
+C:\Users\Dell\Desktop\Task\Task2\Task2\obj\Debug\Task2.pdb

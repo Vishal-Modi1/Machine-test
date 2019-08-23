@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\Task\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Task\Task3\Task3\bin\Debug\Task3.exe.config
+C:\Users\Dell\Desktop\Task\Task3\Task3\bin\Debug\Task3.exe
+C:\Users\Dell\Desktop\Task\Task3\Task3\bin\Debug\Task3.pdb
+C:\Users\Dell\Desktop\Task\Task3\Task3\obj\Debug\Task3.exe
+C:\Users\Dell\Desktop\Task\Task3\Task3\obj\Debug\Task3.pdb
+C:\Users\Dell\Desktop\Task\Task3\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
